@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html  lang=“en”>
+   <head>
+      <title>Ansar mohammadi’s webpage</title>
+      <meta charset=“utf-8”>
+      <link href=“styles.css” rel=“stylesheet”>
+    </head>                
+
+    <body>
+
+<img src=“Moon.jpg” alt=“moon”>
+
+<h1>Ansar’s favorite movies</h1>
+<ol>
+<li>Thor </li>
+<li> joker</li>
+<li> The Dark Knight (2008)</li>
+<li> Blood Diamond</li>
+<li> Project Power</>
+</ol>
+
+<h2>Ansar’s Favorite Actors</h2>
+<ul>
+<li> Brad Pitt</li>
+<li> Liam Neeson</li>
+<li> Tom Cruise</li>
+<li> Leonardo DiCaprio</li>
+<li> Cillian Murphy</li>
+</ul>
+
+<h3>Video and audio Samples</h3>
+ 
+<video Width=“320” height=“240” controls>
+<source src=“VideoSample.mp4” type=“video/mp4”>
+  <p> In this 28 second video it shows a aerial view of waves crashing against a rock formation.</p>
+</video>
+
+<p>In this 28 second video it shows a aerial view of waves crashing against a rock formation.</p>
+
+<audio controls>
+<source src=“AudioSample.mp3” type=“audio/mp3”>
+<p>The 1 minute 40 second audio sample features string music.</p>
+</audio>
+
+<p>The 1 minute 40 second audio sample features string music.</p>
+
+<h4>External Links</h4>
+
+For a great place to buy books, visit <a href=“http://www.amazon.com”>Amazon.</a>
+
+</body>
+</html>
